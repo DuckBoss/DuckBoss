@@ -1,5 +1,6 @@
 ### Hi, I'm Jason Jerome 👋
 [![](https://img.shields.io/badge/-@DuckBossDev-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/DuckBossDev)
+[![](https://img.shields.io/badge/-@JasonJerome-000000?style=flat-square&logo=bitbucket&logoColor=ffffff)](https://bitbucket.org/JasonJerome/)
 
 
 I am an aspiring full-stack developer with knowledge across the board in client and server application development.
