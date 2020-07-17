@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/-@JasonJerome-000000?style=flat-square&logo=bitbucket&logoColor=ffffff)](https://bitbucket.org/JasonJerome/)
 [![](https://img.shields.io/badge/-@JJGameDev-FF0000?style=flat-square&logo=youtube&logoColor=ffffff)](https://www.youtube.com/channel/UCAODHGDvr6DrqMpjl_I7wHQ)
 
-I am an aspiring full-stack developer with knowledge across the board in client and server application development.
+I am an aspiring full-stack developer with experience in client and server application development.
 - 🚀 I’m currently working on [JJMumbleBot](https://github.com/DuckBoss/JJMumbleBot) and some other private projects.
 - 📫 How to reach me: [duckboss@kakao.com](mailto:duckboss@kakao.com)
 - ⚡ My Tech Stack:
