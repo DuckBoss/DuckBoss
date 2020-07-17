@@ -4,7 +4,7 @@
 
 I am an aspiring full-stack developer with knowledge across the board in client and server application development.
 - 🚀 I’m currently working on [JJMumbleBot](https://github.com/DuckBoss/JJMumbleBot) and some other private projects.
-- 📫 How to reach me: [duckboss@kakao.com](duckboss@kakao.com)
+- 📫 How to reach me: [duckboss@kakao.com](mailto:duckboss@kakao.com)
 - ⚡ My Tech Stack:
    - Languages:<br>
    ![C#](https://img.shields.io/badge/-C_Sharp-%23E44D27?style=flat-square&logo=c-sharp&logoColor=ffffff&color=009c39)
