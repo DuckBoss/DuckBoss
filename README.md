@@ -27,7 +27,9 @@ I am an aspiring full-stack developer with experience in client and server appli
    ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=ffffff)
    ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
    - Operating Systems: <br>
-   ![Linux](https://img.shields.io/badge/-Linux-87CF3E?style=flat-square&logo=linux&logoColor=ffffff)
+   ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
+   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=ffffff)
+   ![Mint](https://img.shields.io/badge/-Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=ffffff)
    ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
    ![MacOS](https://img.shields.io/badge/-MacOS-999999?style=flat-square&logo=apple&logoColor=ffffff)
 
