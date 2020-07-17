@@ -12,7 +12,7 @@ I am an aspiring full-stack developer with experience in client and server appli
    ![C#](https://img.shields.io/badge/-C_Sharp-%23E44D27?style=flat-square&logo=c-sharp&logoColor=ffffff&color=009c39)
    ![Java](https://img.shields.io/badge/-Java-%23E44D27?style=flat-square&logo=java&logoColor=ffffff)
    ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000&labelColor=F7DF1E&color=F7DF1E)
+   ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=ffffff)
    ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=ffffff)
    ![C++](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=c&logoColor=ffffff)
    ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
