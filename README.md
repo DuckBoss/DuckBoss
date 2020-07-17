@@ -30,6 +30,7 @@ I am an aspiring full-stack developer with experience in client and server appli
    ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
    ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=ffffff)
    ![Mint](https://img.shields.io/badge/-Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=ffffff)
+   ![Solus](https://img.shields.io/badge/-Solus-5294E2?style=flat-square&logo=solus&logoColor=ffffff)
    ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
    ![MacOS](https://img.shields.io/badge/-MacOS-999999?style=flat-square&logo=apple&logoColor=ffffff)
 
