@@ -5,10 +5,7 @@
 [![](https://img.shields.io/badge/-@JJGameDev-FF0000?style=flat-square&logo=youtube&logoColor=ffffff)](https://www.youtube.com/channel/UCAODHGDvr6DrqMpjl_I7wHQ)
 
 I am an aspiring full-stack developer with experience in client and server application development.<br><br>
-🚀 I’m currently working on:<br>
-<a href="https://github.com/DuckBoss/JJMumbleBot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DuckBoss&repo=JJMumbleBot&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-</a>
+
 
 - 📫 How to reach me: [duckboss@kakao.com](mailto:duckboss@kakao.com)
 - ⚡ My Tech Stack:
@@ -38,9 +35,10 @@ I am an aspiring full-stack developer with experience in client and server appli
    ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
    ![MacOS](https://img.shields.io/badge/-MacOS-999999?style=flat-square&logo=apple&logoColor=ffffff)
 
-<br>
-
-![DuckBoss Github Stats](https://github-readme-stats.vercel.app/api?username=duckboss&show_icons=true&title_color=fff&icon_color=03a5fc&text_color=9f9f9f&bg_color=151515)
+🚀 **I’m currently working on:**<br><br>
+<a href="https://github.com/DuckBoss/JJMumbleBot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DuckBoss&repo=JJMumbleBot&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+</a>
 
 <!--
 **DuckBoss/DuckBoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
