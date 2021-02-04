@@ -29,14 +29,18 @@ I am an aspiring full-stack developer with experience in client and server appli
    ![Blender](https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white)
 
    - Other Technologies:<br>
-   ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=ffffff)
-   ![BitBucket](https://img.shields.io/badge/-BitBucket-0052CC?&style=for-the-badge&logo=bitbucket&logoColor=ffffff)
-   ![SQLite](https://img.shields.io/badge/-SQLite-003B57?&style=for-the-badge&logo=sqlite&logoColor=ffffff)
-   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=ffffff)
-   ![Unity Engine](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white)
-   ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?&style=for-the-badge&logo=raspberry-pi&logoColor=ffffff)
-   ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
-   
+       - Git<br>
+         ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=ffffff)
+         ![BitBucket](https://img.shields.io/badge/-BitBucket-0052CC?&style=for-the-badge&logo=bitbucket&logoColor=ffffff)
+       - Databases<br>
+         ![SQLite](https://img.shields.io/badge/-SQLite-003B57?&style=for-the-badge&logo=sqlite&logoColor=ffffff)
+         ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=ffffff)
+      - Other<br>
+         ![Unity Engine](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white)
+         ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
+         ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?&style=for-the-badge&logo=raspberry-pi&logoColor=ffffff)
+         ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+
 
 🚀 **I’m currently working on:**<br><br>
 <a href="https://github.com/DuckBoss/JJMumbleBot">
