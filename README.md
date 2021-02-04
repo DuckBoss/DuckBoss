@@ -28,6 +28,7 @@ I am an experienced college student with proficiency in full-stack application d
 
 ## GitHub Stats
 ![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=duckboss&count_private=true&show_icons=true&theme=tokyonight)<br>
+![Jason's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=duckboss&show_icons=true&locale=en&layout=compact&theme=tokyonight)<br>
 More profile stats available <a href="https://gitprofilee.netlify.app/user?id=duckboss">here</a>!
 
 
