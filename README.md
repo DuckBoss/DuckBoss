@@ -17,6 +17,7 @@ I am an aspiring full-stack developer with experience in client and server appli
    ![C++](https://img.shields.io/badge/-C/C++-00599C?&style=for-the-badge&logo=c&logoColor=ffffff)
    ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?&style=for-the-badge&logo=html5&logoColor=ffffff)
    ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?&style=for-the-badge&logo=css3)
+   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
    - Frameworks:<br>
    ![Node JS](https://img.shields.io/badge/-NodeJS-339933?&style=for-the-badge&logo=node.js&logoColor=white)
    ![Flask](https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)
