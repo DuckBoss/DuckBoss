@@ -7,7 +7,7 @@
 I am an experienced college student with proficiency in full-stack application development, looking for opportunities to work with new technologies and concepts to improve my knowledge and technical skills.<br><br>
 
 
-- 📫 How to reach me: [duckboss@kakao.com](mailto:duckboss@kakao.com)
+📫 **How to reach me:** [duckboss@kakao.com](mailto:duckboss@kakao.com)
 
 | ⚡ My Tech Stack |   |
 |---|---|
