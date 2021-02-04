@@ -6,14 +6,14 @@
 <a href="https://www.youtube.com/channel/UCAODHGDvr6DrqMpjl_I7wHQ"><img src="https://img.shields.io/badge/-@JJGameDev-FF0000?style=flat-square&logo=youtube&logoColor=ffffff"></a></a>
 </p>
 
-<h2 align="center">About Me</h2>
+<h3 align="center">About Me</h3>
 <p align="center">
 I am an experienced college student with proficiency in full-stack application development, looking for opportunities to work with new technologies and concepts to improve my knowledge and technical skills.
 </p>
 <p align="center">
   <a href="https://duckboss.github.io/">https://duckboss.github.io/</a>
 </p>
-
+<hr>
 
 📫 **How to reach me:** [duckboss@kakao.com](mailto:duckboss@kakao.com)
 
