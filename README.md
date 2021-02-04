@@ -32,6 +32,8 @@ I am an aspiring full-stack developer with experience in client and server appli
        - Git<br>
          ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=ffffff)
          ![BitBucket](https://img.shields.io/badge/-BitBucket-0052CC?&style=for-the-badge&logo=bitbucket&logoColor=ffffff)
+         ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+         ![GitLab](https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white)
        - Databases<br>
          ![SQLite](https://img.shields.io/badge/-SQLite-003B57?&style=for-the-badge&logo=sqlite&logoColor=ffffff)
          ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=ffffff)
