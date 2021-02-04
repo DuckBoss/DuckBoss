@@ -13,6 +13,11 @@ I am an experienced college student with proficiency in full-stack application d
 <p align="center">
   <a href="https://duckboss.github.io/">https://duckboss.github.io/</a>
 </p>
+<p align="center">
+<img width=200 src="https://user-images.githubusercontent.com/20238115/106855306-b568db00-668a-11eb-8a96-767e42a7b1c4.png" alt="octocat"/>
+</p>
+
+
 
 📫 **How to reach me:** [duckboss@kakao.com](mailto:duckboss@kakao.com)
 
