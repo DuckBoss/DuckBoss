@@ -1,11 +1,15 @@
-## Hi, I'm Jason Jerome 👋
-[![](https://img.shields.io/badge/-@DuckBossDev-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/DuckBossDev)
-[![](https://img.shields.io/badge/-@DuckBoss-000000?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/DuckBoss)
-[![](https://img.shields.io/badge/-@JasonJerome-000000?style=flat-square&logo=bitbucket&logoColor=ffffff)](https://bitbucket.org/JasonJerome/)
-[![](https://img.shields.io/badge/-@JJGameDev-FF0000?style=flat-square&logo=youtube&logoColor=ffffff)](https://www.youtube.com/channel/UCAODHGDvr6DrqMpjl_I7wHQ)
+<h2 align="center">Hi, I'm Jason Jerome 👋</h2>
+<p align="center">
+<a href="https://twitter.com/DuckBossDev"><img src="https://img.shields.io/badge/-@DuckBossDev-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff"></a></a>
+<a href="https://github.com/DuckBoss"><img src="https://img.shields.io/badge/-@DuckBoss-000000?style=flat-square&logo=github&logoColor=ffffff"></a></a>
+<a href="https://bitbucket.org/JasonJerome/"><img src="https://img.shields.io/badge/-@JasonJerome-000000?style=flat-square&logo=bitbucket&logoColor=ffffff"></a></a>
+<a href="https://www.youtube.com/channel/UCAODHGDvr6DrqMpjl_I7wHQ"><img src="https://img.shields.io/badge/-@JJGameDev-FF0000?style=flat-square&logo=youtube&logoColor=ffffff"></a></a>
+</p>
 
-## About Me
-I am an experienced college student with proficiency in full-stack application development, looking for opportunities to work with new technologies and concepts to improve my knowledge and technical skills.<br><br>
+<h2 align="center">About Me</h2>
+<p align="center">
+I am an experienced college student with proficiency in full-stack application development, looking for opportunities to work with new technologies and concepts to improve my knowledge and technical skills.
+</p>
 
 
 📫 **How to reach me:** [duckboss@kakao.com](mailto:duckboss@kakao.com)
