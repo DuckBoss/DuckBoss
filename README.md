@@ -8,7 +8,7 @@
 
 <h3 align="center">About Me</h3>
 <p align="center">
-I am an experienced college student with proficiency in full-stack application development, looking for opportunities to work with new technologies and concepts to improve my knowledge and technical skills.
+I am an experienced college student with proficiency in full-stack software development, looking for opportunities to work with new technologies and concepts to improve my knowledge and technical skills.
 </p>
 <p align="center">
   <a href="https://duckboss.github.io/">https://duckboss.github.io/</a>
