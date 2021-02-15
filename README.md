@@ -11,15 +11,14 @@
 I am an experienced college student with proficiency in full-stack software development, looking for opportunities to work with new technologies and concepts to improve my knowledge and technical skills.
 </p>
 <p align="center">
-  <a href="https://duckboss.github.io/">https://duckboss.github.io/</a>
+  :mailbox: <b>How to reach me:</b> <a href="mailto:duckboss@kakao.com" alt="duckboss@kakao.com">duckboss@kakao.com</a><br>
+  :computer: <b>Website:</b> <a href="https://duckboss.github.io/">https://duckboss.github.io/</a>
 </p>
 <p align="center">
   <img width=300, src="https://github.com/DuckBoss/DuckBoss/blob/master/undraw_Personal_goals_re_iow7.svg"/>
 </p>
 
 
-
-📫 **How to reach me:** [duckboss@kakao.com](mailto:duckboss@kakao.com)
 
 | ⚡ My Tech Stack |  |
 |:---:|:---|
