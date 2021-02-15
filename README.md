@@ -16,7 +16,8 @@ I am an experienced college student with proficiency in full-stack software deve
 </p>
 
 
-
+<center>
+  
 | ⚡ My Tech Stack |  |
 |:---:|:---|
 | Languages | ![C#](https://img.shields.io/badge/-C_Sharp-%23E44D27?&style=for-the-badge&logo=c-sharp&logoColor=ffffff&color=009c39) ![Java](https://img.shields.io/badge/-Java-%23E44D27?&style=for-the-badge&logo=java&logoColor=ffffff) ![Python](https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/-C/C++-00599C?&style=for-the-badge&logo=c&logoColor=ffffff)<br> ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?&style=for-the-badge&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?&style=for-the-badge&logo=css3) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white) |
@@ -26,6 +27,7 @@ I am an experienced college student with proficiency in full-stack software deve
 | Databases | ![SQLite](https://img.shields.io/badge/-SQLite-003B57?&style=for-the-badge&logo=sqlite&logoColor=ffffff) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=ffffff) |
 | Other Technologies | ![Unity Engine](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white) ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?&style=for-the-badge&logo=raspberry-pi&logoColor=ffffff) ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=ffffff) ![Postman](https://img.shields.io/badge/-Postman-%23FF6F00.svg?&style=for-the-badge&logo=postman&logoColor=ffffff) |
 
+</center>
 
 🚀 **I’m currently working on:**<br><br>
 <a href="https://github.com/DuckBoss/JJMumbleBot">
