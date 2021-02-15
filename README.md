@@ -14,7 +14,7 @@ I am an experienced college student with proficiency in full-stack software deve
   <a href="https://duckboss.github.io/">https://duckboss.github.io/</a>
 </p>
 <p align="center">
-<a href="https://myoctocat.com/"><img width=200 src="https://user-images.githubusercontent.com/20238115/106855738-70917400-668b-11eb-8515-19df69a2ef4e.png" alt="octocat"/></a>
+<img width=500, src="https://github.com/DuckBoss/DuckBoss/blob/master/undraw_Code_thinking_re_gka2.svg"/>
 </p>
 
 
