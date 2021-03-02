@@ -36,7 +36,7 @@ I am an experienced college student with proficiency in full-stack software deve
 
 
 ## GitHub Stats
-|  |  |
+|  | Most used languages (past 30 days) |
 |:---:|:---:|
 | ![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=duckboss&count_private=true&show_icons=true&theme=tokyonight)  | ![Jason's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=duckboss&show_icons=true&locale=en&layout=compact&theme=tokyonight)  |
 
