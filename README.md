@@ -12,12 +12,12 @@ I am an experienced college student with proficiency in full-stack software deve
   :computer: <b>Website:</b> <a href="https://duckboss.github.io/">https://duckboss.github.io/</a><br>
   :information_desk_person: <b>Discord:</b> <a href="https://discord.gg/7hHwyk85Wx">https://discord.gg/7hHwyk85Wx</a>
 </p>
+
+<!--
 <p align="center">
   <img width=300, src="https://github.com/DuckBoss/DuckBoss/blob/master/undraw_Personal_goals_re_iow7.svg"/>
 </p>
-
-
-<center>
+-->
   
 | ⚡ My Tech Stack |  |
 |:---:|:---:|
@@ -28,7 +28,6 @@ I am an experienced college student with proficiency in full-stack software deve
 | Databases | ![SQLite](https://img.shields.io/badge/-SQLite-003B57?&style=for-the-badge&logo=sqlite&logoColor=ffffff) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=ffffff) |
 | Other Technologies | ![Unity Engine](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white) ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?&style=for-the-badge&logo=raspberry-pi&logoColor=ffffff) ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=ffffff) ![Postman](https://img.shields.io/badge/-Postman-%23FF6F00.svg?&style=for-the-badge&logo=postman&logoColor=ffffff) |
 
-</center>
 
 🚀 **I’m currently working on:**<br><br>
 <a href="https://github.com/DuckBoss/JJMumbleBot">
