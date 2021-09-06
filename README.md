@@ -9,7 +9,7 @@ I am an experienced college student with proficiency in full-stack software deve
   <a href="https://bitbucket.org/JasonJerome/"><img src="https://img.shields.io/badge/-@JasonJerome-000000?style=flat-square&logo=bitbucket&logoColor=ffffff"></a></a>
   <a href="https://www.youtube.com/channel/UCAODHGDvr6DrqMpjl_I7wHQ"><img src="https://img.shields.io/badge/-@JJGameDev-FF0000?style=flat-square&logo=youtube&logoColor=ffffff"></a><br>
   :mailbox: <b>How to reach me:</b> <a href="mailto:duckboss@kakao.com" alt="duckboss@kakao.com">duckboss@kakao.com</a><br>
-  :computer: <b>Website:</b> <a href="https://duckboss.github.io/">https://duckboss.github.io/</a><br>
+  :computer: <b>Website: [Under Construction]</b> <a href="https://duckboss.github.io/">https://duckboss.github.io/</a><br>
   :information_desk_person: <b>Discord:</b> <a href="https://discord.gg/7hHwyk85Wx">https://discord.gg/7hHwyk85Wx</a>
 </p>
 
