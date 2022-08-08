@@ -30,14 +30,14 @@ I am an experienced college student with proficiency in full-stack software deve
 | Project Management Tools | ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)  | 
 | Other Technologies | ![Unity Engine](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white) ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?&style=for-the-badge&logo=raspberry-pi&logoColor=ffffff) ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=ffffff) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) <br> ![Bookstack](https://img.shields.io/badge/Bookstack-%230288D1.svg?style=for-the-badge&logo=bookstack&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-%23FF6F00.svg?&style=for-the-badge&logo=postman&logoColor=ffffff) |
 
-
+<!--
 
 🚀 **I’m currently working on:**<br><br>
 <a href="https://github.com/DuckBoss/JJMumbleBot">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DuckBoss&repo=JJMumbleBot&theme=tokyonight" />
 </a>
 
-
+-->
 
 ![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=duckboss&count_private=true&show_icons=true&theme=tokyonight)
 <p>More profile stats available <a href="https://gitprofilee.netlify.app/user?id=duckboss">here</a>!</p>
