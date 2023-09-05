@@ -36,8 +36,10 @@
 
 -->
 
+<!-- 
 ![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=duckboss&count_private=true&show_icons=true&theme=tokyonight)
 <p>More profile stats available <a href="https://gitprofilee.netlify.app/user?id=duckboss">here</a>!</p>
+-->
 
 <!--
 **DuckBoss/DuckBoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
